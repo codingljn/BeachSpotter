@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "img": "aitutaki-lagoon",
+      "clicked": false,
+      "key": 1
+    },
+    {
+      "id": 2,
+      "img": "anse-source",
+      "clicked": false,
+      "key": 2
+    },
+    {
+      "id": 3,
+      "img": "baia-porcos",
+      "clicked": false,
+      "key": 3
+    },
+    {
+      "id": 4,
+      "img": "cala-marioli",
+      "clicked": false,
+      "key": 4
+    },
+    {
+      "id": 5,
+      "img": "cornwall",
+      "clicked": false,
+      "key": 5
+    },
+    {
+      "id": 6,
+      "img": "dall-alto",
+      "clicked": false,
+      "key": 6
+    },
+    {
+      "id": 7,
+      "img": "flamenco-beach",
+      "clicked": false,
+      "key": 7
+    },
+    {
+      "id": 8,
+      "img": "francis-bay",
+      "clicked": false,
+      "key": 8
+    },
+    {
+      "id": 9,
+      "img": "manini-owali",
+      "clicked": false,
+      "key": 9
+    },
+    {
+      "id": 10,
+      "img": "porto-katsiki",
+      "clicked": false,
+      "key": 10
+    },
+    {
+      "id": 11,
+      "img": "shoal-bay",
+      "clicked": false,
+      "key": 11
+    },
+    {
+      "id": 12,
+      "img": "yapak-beach",
+      "clicked": false,
+      "key": 12
+    }
+  ]
